@@ -221,8 +221,3 @@ M.Sc Project — Vehicle Routing & Optimization
 Tirupati, Andhra Pradesh, India
 
 ---
-
-## 📄 License
-
-This project is submitted as part of a BTech academic project.  
-Feel free to use, modify, and extend for educational purposes.
