@@ -217,7 +217,7 @@ pip install pandas numpy scikit-learn folium matplotlib seaborn pulp
 ## 👤 Author
 
 **Nassiruddin**  
-BTech Project — Vehicle Routing & Optimization  
+M.Sc Project — Vehicle Routing & Optimization  
 Tirupati, Andhra Pradesh, India
 
 ---
